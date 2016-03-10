@@ -1,7 +1,7 @@
 import scala.math._
 import scala.util.Random
 
-object HelloWorld {
+object Chapter_01 {
   def main(args: Array[String]) {
     val greeting: String = "Hello World";
     println(greeting);
